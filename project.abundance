@@ -45,8 +45,8 @@
         },
         {
           "name": "labelColor",
-          "ioValue": "#2C241F",
-          "currentEquation": "#2C241F"
+          "ioValue": "#3A2F28",
+          "currentEquation": "#3A2F28"
         },
         {
           "name": "fontSize",
@@ -186,7 +186,7 @@
     },
     {
       "ap2Name": "input",
-      "ap1ID": "id-894",
+      "ap1ID": "id-900",
       "ap2ID": "id-875"
     },
     {
